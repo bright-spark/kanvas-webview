@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Vocus WebView</string>
+    <string name="app_name">Koderun Kanvas</string>
     <string name="image_view">Image View</string>
-	<string name="mgks_promo">www.vocus.com.ar</string>
+	<string name="mgks_promo">koderun.us</string>
     <string name="rate_dialog_title">Rate</string>
     <string name="rate_dialog_message">If you like our app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks!</string>
     <string name="rate_dialog_ok">RATE</string>
