@@ -62,7 +62,7 @@ class SmartWebView {
 	/* -- CONFIG VARIABLES -- */
 
 	//complete URL of your website or offline webpage
-	static String ASWV_URL          = "http://kanvas.koding.co.za/var/apps/browser/index-prod.html#/overview";
+	static String ASWV_URL          = "https://kanvas.koding.co.za/overview";
 
 	//to upload any file type using "*/*"; check file type references for more
 	static String ASWV_F_TYPE       = "*/*";
